@@ -15,4 +15,8 @@ Delve into the intricacies of data analysis with a particular focus on clusterin
 - Evaluating Models
 - Profiling
 
+[Customer Segmentation - Clustering Notebook](https://github.com/CatelloTheDataProjectManager/Customer-Segmentation/blob/main/Customer%20Segmentation%20-%20Clustering.ipynb)
+
 Explore the code and documentation to gain a profound understanding of the project's intricacies. Your feedback and contributions are invaluable, contributing to the ongoing refinement of this endeavor! 🚀
+
+![Income Spending Clusters](https://github.com/CatelloTheDataProjectManager/Customer-Segmentation/blob/main/income_spending_clusters.png)
